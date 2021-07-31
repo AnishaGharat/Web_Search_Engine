@@ -80,6 +80,12 @@ This command will pull the latest project files from git repository.
 
 We use [GitHub](http://github.com/) for versioning. 
 
+## Testing
+
+- Unit tests were performed on each individual feature.
+
+- Integration tests were performed after the integration of all the features into a single application.
+
 ## Authors
 
 * **Adhiraj Singh**
