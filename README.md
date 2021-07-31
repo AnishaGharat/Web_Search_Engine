@@ -20,12 +20,14 @@ For the implementation of Web Search Engine, we will apply these concepts includ
 
 ### Project Flowchart
 
+![alt text](https://github.com/AnishaGharat/Web_Search_Engine/blob/dev/data/Web_Search_Engine_Project_Flowchart.png?raw=true)
+
 
 ### Prerequisites
 
 
-- [JAVA](https://www.java.com/en/download/manual.jsp)
-- [Git](https://git-scm.com/downloads)
+- [JAVA] (https://www.java.com/en/download/manual.jsp)
+- [Git] (https://git-scm.com/downloads)
 - [Eclipse] (https://www.eclipse.org/downloads/)
 - [Jsoup] (https://jsoup.org/download/)
 
@@ -36,8 +38,7 @@ The steps are:
  1. [Setting up Eclipse Environment](#step-1---setting-up-eclipse-environment)
  2. [Cloning the Application](#step-2---cloning-the-application)
  3. [Downloading necessary Java Libraries](#step-3---downloading-necessary-Java-Libraries)
- 4. [Setting up SQLite database](#step-4---setting-up-sqlite-database)
- 5. [Running the App](#step-5---running-the-app)
+ 5. [Running the App](#step-4---running-the-app)
 
 
 ### Step 1 - Setting up Eclipse Environment
@@ -68,7 +69,7 @@ This command will pull the latest project files from git repository.
 - Under the project configurations in Eclipse > Add External JAR files, set the relative path of the Jsoup JAR file (check pre-requisites).
 
 
-### Step 5 - Running the App
+### Step 4 - Running the App
 
 In the Eclipse IDE, open a new terminal and run the Java Application.
 
