@@ -38,7 +38,7 @@ The steps are:
  1. [Setting up Eclipse Environment](#step-1---setting-up-eclipse-environment)
  2. [Cloning the Application](#step-2---cloning-the-application)
  3. [Downloading necessary Java Libraries](#step-3---downloading-necessary-Java-Libraries)
- 5. [Running the App](#step-4---running-the-app)
+ 5. [Running the Application](#step-4---running-the-application)
 
 
 ### Step 1 - Setting up Eclipse Environment
@@ -69,9 +69,11 @@ This command will pull the latest project files from git repository.
 - Under the project configurations in Eclipse > Add External JAR files, set the relative path of the Jsoup JAR file (check pre-requisites).
 
 
-### Step 4 - Running the App
+### Step 4 - Running the Application
 
-In the Eclipse IDE, open a new terminal and run the Java Application.
+- In the Eclipse IDE, open a new terminal and run the Java Application.
+
+- Follow the Project Flowchart for further assistance on the user inputs and flow of the application.
 
 
 ## Versioning
