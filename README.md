@@ -4,8 +4,7 @@
 
 ## Introduction
 
-In simple terms, search engines are response machines. They discover and catalogue all the material assessible on the Internet through crawling and indexing. All the results are then sorted and ranked based on the best match
-The Crawlers/Spiders are search engine programs that start by finding web pages and then hopping through a path of links and web pages to find new content
+In simple terms, search engines are response machines. They discover and catalogue all the material accessible on the Internet through crawling and indexing. All the results are then sorted and ranked based on the best match. The Crawlers/Spiders are search engine programs that start by finding web pages and then hopping through a path of links and web pages to find new content.
 
 ### Features Used
 
@@ -38,7 +37,7 @@ The steps are:
  1. [Setting up Eclipse Environment](#step-1---setting-up-eclipse-environment)
  2. [Cloning the Application](#step-2---cloning-the-application)
  3. [Downloading necessary Java Libraries](#step-3---downloading-necessary-Java-Libraries)
- 5. [Running the Application](#step-4---running-the-application)
+ 4. [Running the Application](#step-4---running-the-application)
 
 
 ### Step 1 - Setting up Eclipse Environment
@@ -70,6 +69,10 @@ This command will pull the latest project files from git repository.
 
 
 ### Step 4 - Running the Application
+
+- Change the file paths in two files:
+  - Parser.java -> File FolderWithFiles = new File(""); 
+  - WebSearchEngine.java -> private static String filePathAbs = "";
 
 - In the Eclipse IDE, open a new terminal and run the Java Application.
 
