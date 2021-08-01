@@ -89,6 +89,11 @@ We use [GitHub](http://github.com/) for versioning.
 
 - Integration tests were performed after the integration of all the features into a single application.
 
+## Application Video
+
+A comprehensive explaination of the application along with the demo can be viewed here:
+ - https://youtu.be/tZBE_PEM4Oc
+
 ## Authors
 
 * **Adhiraj Singh**
