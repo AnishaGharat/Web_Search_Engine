@@ -70,7 +70,7 @@ This command will pull the latest project files from git repository.
 
 ### Step 4 - Running the Application
 
-- Change the file paths in two files:
+- Change the file paths in the below two files and add the complete path of the WebPages/Text folder in your directories:
   - Parser.java -> File FolderWithFiles = new File(""); 
   - WebSearchEngine.java -> private static String filePathAbs = "";
 
@@ -91,7 +91,7 @@ We use [GitHub](http://github.com/) for versioning.
 
 ## Application Video
 
-A comprehensive explaination of the application along with the demo can be viewed here:
+A comprehensive explanation of the application along with the demo can be viewed here:
  - https://youtu.be/tZBE_PEM4Oc
 
 ## Authors
